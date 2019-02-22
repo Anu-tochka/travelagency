@@ -1,2 +1,2 @@
 # travelagency
-SPA by Vue.j2
+SPA by Vue.js
